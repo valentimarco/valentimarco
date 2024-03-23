@@ -19,7 +19,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Lab.-Algoritmi-2023&theme=dracula&hide_border=true)](https://github.com/valentimarco/Progetto-Lab.-Algoritmi-2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Data-Science-2023&theme=dracula&hide_border=true)](https://github.com/valentimarco/Progetto-Data-Science-2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Open-Data-2023&theme=dracula&hide_border=true)](https://github.com/valentimarco/Progetto-Open-Data-2023)
-[![Readme Card]()]()
   
 
 
@@ -28,7 +27,10 @@
 
 <h3 align="center">About Me</h3>
 <ul>
-  <li>😸 Core Contributor of [Cheshire Cat](https://cheshirecat.ai/) </li>
+  <li> 
+    
+  😸 Core Contributor of [Cheshire Cat](https://cheshirecat.ai/) 
+  </li>
   <li>⚡ Electronic and Embedded Enthusiast </li>
 </ul>
 
