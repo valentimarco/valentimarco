@@ -1,16 +1,46 @@
-<h2 align="center">Hi 👋! My name is Marco</h2>
+<h2 align="center">Hi 👋! My name is Marco</h2> 
 
 ###
 
 <h3 align="center">A Junior Software Engineer and Computer Science student at University of Palermo</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valentimarco&label=Profile%20views&color=0e75b6&style=flat" alt="valentimarco" /> </p>
+<div align="center">
+  <a> 
+    <img src="https://komarev.com/ghpvc/?username=valentimarco&label=Profile%20views&color=0e75b6&style=flat" alt="valentimarco" /> 
+  </a>
+</div>
 
 ###
+<h3 align="center">Projects</h3>
+<div align="center">
+  <a href="https://github.com/valentimarco/SoundMixerPlugin" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=SoundMixerPlugin&theme=dracula&hide_border=true"   />
+  </a>
+  <a href="https://github.com/valentimarco/Progetto-Compilatori-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Compilatori-2023&theme=dracula&hide_border=true" height="125"   />
+  </a>
+  <a href="https://github.com/valentimarco/Progetto-Compilatori-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Compilatori-2023&theme=dracula&hide_border=true" height="125"   />
+  </a>
+  <a href="https://github.com/valentimarco/Progetto-Lab.-Algoritmi-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Lab.-Algoritmi-2023&theme=dracula&hide_border=true" height="125"   />
+  </a>
+  <a href="https://github.com/valentimarco/Progetto-Data-Science-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Data-Science-2023&theme=dracula&hide_border=true" height="125"   />
+  </a>
+  <a href="https://github.com/valentimarco/Progetto-Open-Data-2023">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Open-Data-2023&theme=dracula&hide_border=true" height="125"   />
+  </a>
+  
+  
 
-- 😸 Core Contributor of [Cheshire Cat](https://cheshirecat.ai/)
-- ⚡ Electronic and Embedded Enthusiast
-- 🐉 My biggest project is [SoundMixerPlugin](https://github.com/valentimarco/SoundMixerPlugin)
+  
+</div>
+
+<h3 align="center">About Me</h3>
+<ul>
+  <li>😸 Core Contributor of [Cheshire Cat](https://cheshirecat.ai/) </li>
+  <li>⚡ Electronic and Embedded Enthusiast </li>
+</ul>
 
 
 ###
@@ -77,8 +107,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valentimarco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valentimarco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=valentimarco&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=valentimarco&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&row=1" height="150" alt="streak graph"  />
 </div>
+
+
 
 ###
 
