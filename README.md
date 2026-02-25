@@ -14,11 +14,11 @@
 <h3 align="center">Projects</h3>
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=SoundMixerPlugin&theme=dracula&hide_border=true)](https://github.com/valentimarco/SoundMixerPlugin)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Compilatori-2023&theme=dracula&hide_border=true)](https://github.com/valentimarco/Progetto-Compilatori-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Lab.-Algoritmi-2023&theme=dracula&hide_border=true)](https://github.com/valentimarco/Progetto-Lab.-Algoritmi-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Data-Science-2023&theme=dracula&hide_border=true)](https://github.com/valentimarco/Progetto-Data-Science-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentimarco&repo=Progetto-Open-Data-2023&theme=dracula&hide_border=true)](https://github.com/valentimarco/Progetto-Open-Data-2023)
+![SoundMixerPlugin.svg](./profile/SoundMixerPlugin.svg)
+![Progetto-Compilatori-2023.svg](./profile/Progetto-Compilatori-2023.svg)
+![Progetto-Data-Science-2023.svg](./profile/Progetto-Data-Science-2023.svg)
+![Progetto-Lab.-Algoritmi-2023.svg](./profile/Progetto-Lab.-Algoritmi-2023.svg)
+![Progetto-Open-Data-2023.svg](./profile/Progetto-Open-Data-2023.svg)
   
 
 
@@ -95,17 +95,11 @@
 </div>
 
 ###
+![stats](./profile/stats.svg)
+![lang](./profile/top-langs.svg)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valentimarco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=valentimarco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=valentimarco&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&row=1" height="150" alt="streak graph"  />
-</div>
 
 ###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=valentimarco&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
 
 ###
