@@ -15,10 +15,13 @@
 <div align="center">
 
 ![SoundMixerPlugin.svg](./profile/SoundMixerPlugin.svg)
+![Progetto-Open-Data-2023.svg](./profile/Data-Processing-on-Distributed-Systems.svg)
 ![Progetto-Compilatori-2023.svg](./profile/Progetto-Compilatori-2023.svg)
 ![Progetto-Data-Science-2023.svg](./profile/Progetto-Data-Science-2023.svg)
 ![Progetto-Lab.-Algoritmi-2023.svg](./profile/Progetto-Lab.-Algoritmi-2023.svg)
 ![Progetto-Open-Data-2023.svg](./profile/Progetto-Open-Data-2023.svg)
+
+
   
 
 
